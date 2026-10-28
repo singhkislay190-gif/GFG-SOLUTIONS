@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    long long findSubarray(vector<int> &arr) {
+
+        unordered_map<long long, long long> mp;
+
+        long long prefixSum = 0;
+        long long count = 0;
+
+        mp[0] = 1;
+
+        for (int x : arr) {
+            prefixSum += x;
+
+            if (mp.find(prefixSum) != mp.end())
+                count += mp[prefixSum];
+
+            mp[prefixSum]++;
+        }
+
+        return count;
+    }
+};
