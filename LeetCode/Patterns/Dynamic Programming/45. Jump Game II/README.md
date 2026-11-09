@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/jump-game-ii/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Dynamic Programming, Greedy
 
 ### 🚀 Performance
-- **Runtime:** 7 ms
-- **Memory:** 13.1 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
