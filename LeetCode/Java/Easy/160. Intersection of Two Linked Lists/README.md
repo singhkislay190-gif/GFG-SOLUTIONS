@@ -1,6 +1,6 @@
 # 📝 160. Intersection of Two Linked Lists (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/intersection-of-two-linked-lists)
+🔗 [Problem Link](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Hash Table, Linked List, Two Pointers
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 51.8 MB
 
 ---
 
