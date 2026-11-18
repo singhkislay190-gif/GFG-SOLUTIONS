@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 2 / 75 (2.7%)
+- **Completed:** 3 / 75 (4.0%)
 
 ---
 
@@ -64,7 +64,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [ ] Merge Two Sorted Lists
 - [ ] Merge k Sorted Lists
 - [x] [Remove Nth Node From End of List](./Java/Medium/19. Remove Nth Node From End of List/)
-- [ ] Reorder List
+- [x] [Reorder List](./Java/Medium/143. Reorder List/)
 
 ### 📂 Matrix
 - [ ] Set Matrix Zeroes
