@@ -8,8 +8,8 @@
 Math, Bit Manipulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 42.3 MB
 
 ---
 
@@ -23,7 +23,7 @@ Return  *the  **quotient**  after dividing*  `dividend`  *by*  `divisor` .
 
 **Note:** Assume we are dealing with an environment that could only store integers within the  **32-bit**  signed integer range:  `[−231, 231 − 1]` . For this problem, if the quotient is  **strictly greater than**   `231 - 1` , then return  `231 - 1` , and if the quotient is  **strictly less than**   `-231` , then return  `-231` .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: dividend = 10, divisor = 3
