@@ -46,7 +46,7 @@ for (int i = 0; i < actualLength; i++) {
 
 If all assertions pass, then your solution will be  **accepted** .
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [3,2,2,3], val = 3
